@@ -1,0 +1,11 @@
+level2 33300
+lev 28300
+Saiful 27100
+Erfan 26700
+Shafi 26600
+Anik 25800
+Razin 21500
+Akhand 21500
+level1 21500
+Sawraz 21000
+PlayerName 21000

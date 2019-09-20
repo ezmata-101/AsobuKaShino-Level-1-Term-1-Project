@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1568434791 source:d:\ashobu ka shinu\term 1-1 project\nafee asobu-ka-shinusmooth-kora-shoho(minor bug fixes).cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568183620 d:\ashobu ka shinu\term 1-1 project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 d:\ashobu ka shinu\term 1-1 project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 d:\ashobu ka shinu\term 1-1 project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568438563 source:c:\users\user\desktop\term 1-1 project\mepmep4.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568183620 c:\users\user\desktop\term 1-1 project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 c:\users\user\desktop\term 1-1 project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 c:\users\user\desktop\term 1-1 project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568438563 source:g:\new folder (2)\term 1-1 project\mepmep4.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568183620 g:\new folder (2)\term 1-1 project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 g:\new folder (2)\term 1-1 project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 g:\new folder (2)\term 1-1 project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568438563 source:c:\users\mobas\downloads\term 1-1 project\term 1-1 project\mepmep4.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568183620 c:\users\mobas\downloads\term 1-1 project\term 1-1 project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 c:\users\mobas\downloads\term 1-1 project\term 1-1 project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 c:\users\mobas\downloads\term 1-1 project\term 1-1 project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
